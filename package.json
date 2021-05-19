@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Introduction\r Dementia is a general term describing a group of symptoms that impairment human memory, communication, and thinking. According to a report in 2015 46.8 million people are suﬀer from dementia around the world. If dementia has been detected at an early stage of the disease, we can delay its progress by drugs, therapy or rehabilitation. In many cases, family members detect dementia. However, the elderly whom are living alone may be suﬀer from advance symptoms because nobody noticed their rare actions. To detect dementia at an early stage even if the subject lives alone, we proposed an early detection system of dementia using various sensors. In previous study, we acquired 7 kinds of behavior by questionnaire from 3 subjects with dementia. Then we analysed  the data and successfully diagnosed two of them suﬀered from dementia. Then we analysed the data and successfully diagnosed two of them suﬀered from dementia. Behavior at an early stage are many and diﬀerent from patient to another. Therefore, we should collect data from various patients and by considering their lifestyle background (e.g. personal character and environment) Therefore, if we imply that, we can analyze various symptoms of dementia. The questionnaire is burdensome for the subject, so a reliable device that collects typical behavior of dementia is also more eﬀective In recent years, Japanese society has been suﬀering from aging. There have been many studies estimating the number of elderly people living alone will be increasing frighteningly. Moreover, patients who suﬀered from senile dementia also would be increasing. Dementia is disorder of memory and judgement caused by dying brain cell. Therefore, patients suﬀering from dementia are unable to live with ordinary social life. If dementia has been detected at an early stage, the progress of disease can be slowed. Therefore, early detection of dementia is essential to the patient’s therapy. Usually, housemates can detect dementia by noticing the subject being temperamental person. However, it is diﬃcult to diagnose dementia at an early stage of the progression in elderly subjects living alone.",
+  "main": "EventEmmiter.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concat-stream": "^2.0.0",
+    "ejs": "^3.1.6",
+    "eslint": "^7.25.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "pug": "^3.0.2",
+    "strftime": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
